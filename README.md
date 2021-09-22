@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://akash.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_prasadakash)
 
-## I'm a Javascript Developer,and love Building Side Projectts!!
+## I'm a Javascript Developer.!!
 
-- 🔭 Building TedSmrzr: [preview!][https://tedsmrzr.vercel.app/]!
+- 🔭 Building TedSmrzr: [preview!][(https://tedsmrzr.vercel.app/)]!
 - 🌱 I’m currently learning about Design Systems:[small progess!][https://react-molecules.netlify.app/]
-- 🥅 2021 Goals: Contribute more to Open Source projects
-  <img align="right" alt="GIF" src="gif.gif" width="300"/>
+- 🥅 2021 Goals: Contribute more to Open Source projects & build one more side project 😁.
+  <img align="right" alt="GIF" src="./gifs/gif.gif" width="300"/>
 
 ### Connect with me:
 
