@@ -1,9 +1,9 @@
-### Hi there, I'm Akash 👋
+## Hi there, I'm Akash 👋
 
 ## I'm a Javascript Developer.
 
 - 🔭 Building TedSmrzr: [preview](https://tedsmrzr.vercel.app/)
-- 🌱 I’m currently learning about Design Systems:[progess!](https://react-molecules.netlify.app/)
+- 🌱 I’m currently learning about Design Systems:[see my progess here](https://react-molecules.netlify.app/)
 - 🥅 2021 Goals: Contribute more to Open Source projects.
   <img align="right" alt="GIF" src="./gifs/gif.gif" width="300"/>
 
