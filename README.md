@@ -5,9 +5,9 @@
 
 ## I'm a Javascript Developer.!!
 
-- 🔭 Building TedSmrzr: [preview!][(https://tedsmrzr.vercel.app/)]!
-- 🌱 I’m currently learning about Design Systems:[small progess!][https://react-molecules.netlify.app/]
-- 🥅 2021 Goals: Contribute more to Open Source projects & build one more side project 😁.
+- 🔭 Building TedSmrzr: [preview](https://tedsmrzr.vercel.app/)
+- 🌱 I’m currently learning about Design Systems:[progess!](https://react-molecules.netlify.app/)
+- 🥅 2021 Goals: Contribute more to Open Source projects.
   <img align="right" alt="GIF" src="./gifs/gif.gif" width="300"/>
 
 ### Connect with me:
